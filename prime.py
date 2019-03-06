@@ -1,3 +1,4 @@
+#V0.1
 import math
 
 def isPrime(number):
